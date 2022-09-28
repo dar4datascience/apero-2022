@@ -1,0 +1,17 @@
+---
+title: 'Using RSelenium to download INEGI economic data: the DENUE'
+author: 'Daniel Amieva Rodriguez'
+date: '`r Sys.Date()`'
+slug: [introrselenium-with-denue]
+categories: [economics, denue, r, webscrapping, inegi]
+tags: [2022, september, economics, denue, rselenium]
+---
+
+
+## Where are the docs at?
+
+The creator of the officeverse collection of packages, which officedown is a part of, is named David Gohel. He has a bookdown book with a chapter on officedown, but it is only about Word rather than PPT output:
+
+https://ardata-fr.github.io/officeverse/officedown-for-word.html
+
+For this reason alone, you may not realize you can use officedown to knit to PPT! I certainly didn't until my colleague [Christophe Dervieux](https://cderv.rbind.io/about/) gave me enough support to try it on my own.
