@@ -2,26 +2,89 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Hugo Apéro Demo</title>
-    <link>dar4datascience.github.io/apero-2022/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Hugo Apéro Demo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 27 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="dar4datascience.github.io/apero-2022/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2022</title>
+      <link>/tags/2022/</link>
+      <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>denue</title>
+      <link>/tags/denue/</link>
+      <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/denue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>economics</title>
+      <link>/tags/economics/</link>
+      <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/economics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rselenium</title>
+      <link>/tags/rselenium/</link>
+      <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/rselenium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>september</title>
+      <link>/tags/september/</link>
+      <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/september/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>powerpoint</title>
+      <link>/tags/powerpoint/</link>
+      <pubDate>Tue, 27 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/powerpoint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rmarkdown</title>
+      <link>/tags/rmarkdown/</link>
+      <pubDate>Tue, 27 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/rmarkdown/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>style</title>
-      <link>dar4datascience.github.io/apero-2022/tags/style/</link>
+      <link>/tags/style/</link>
       <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>dar4datascience.github.io/apero-2022/tags/style/</guid>
+      <guid>/tags/style/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo-site</title>
-      <link>dar4datascience.github.io/apero-2022/tags/hugo-site/</link>
+      <link>/tags/hugo-site/</link>
       <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>dar4datascience.github.io/apero-2022/tags/hugo-site/</guid>
+      <guid>/tags/hugo-site/</guid>
       <description></description>
     </item>
     
