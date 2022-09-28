@@ -1,4 +1,4 @@
-baseURL = "dar4datascience.github.io/apero-2022"
+baseURL = "/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Hugo Apéro Demo"
