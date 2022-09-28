@@ -1,8 +1,8 @@
-baseURL = "https://dar4datascience.github.io/apero-2022"
+baseURL = "dar4datascience.github.io/apero-2022"
 theme = "hugo-apero"
 languageCode = "en"
-title = "Hugo Apéro"
-author = "Alison Hill"
+title = "Hugo Apéro Demo"
+author = "Daniel Amieva Rodriguez"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
 disqusShortname = "" # see params.utterances to use utterances instead of Disqus
@@ -192,15 +192,4 @@ enableEmoji = true
     disable = false
     privacyEnhanced = true
 
-
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
-
-
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
 
